@@ -1,12 +1,12 @@
 {
-  "name": "plugin-n8n-builder",
+  "name": "plugin-n8n-t-yn",
   "owner": {
     "name": "tanguy-yn"
   },
   "plugins": [
     {
       "name": "n8n-builder",
-      "source": "https://github.com/tanguy-yn/plugin-n8n-builder.git",
+      "source": "https://github.com/tanguy-yn/plugin-n8n-t-yn.git",
       "description": "MCP builder skills for n8n development",
       "version": "1.0.0",
       "author": {
