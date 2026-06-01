@@ -1,5 +1,8 @@
 {
   "name": "n8n-builder",
   "version": "1.0.0",
-  "description": "MCP builder skills for n8n development"
+  "description": "MCP builder skills for n8n development",
+  "author": {
+    "name": "tanguy-yn"
+  }
 }
