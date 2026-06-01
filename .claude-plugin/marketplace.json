@@ -6,7 +6,11 @@
   "plugins": [
     {
       "name": "n8n-builder",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "tanguy-yn/plugin-n8n-t-yn",
+        "ref": "main"
+      },
       "description": "MCP builder skills for n8n development",
       "version": "1.0.0",
       "author": {
